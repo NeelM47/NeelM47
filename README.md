@@ -8,12 +8,12 @@ I'm a passionate software engineer focused on **Machine Learning**, **AI**, and 
 - Open-source contributions on **GitHub Pages** and **ML frameworks**.
 
 ## 📚 Skills
-- Languages: Python, JavaScript, C++
+- Languages: Python, C++, JavaScript
 - Technologies: TensorFlow, Flask, Node.js, Docker, Git
 
 ## 💬 Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- LinkedIn: [Neel More](https://www.linkedin.com/in/neel-more-267217219/)
+- Youtube: [N E E L_ M O R E](https://www.youtube.com/@neel_more8702)
 
 ## ⚡ Fun Facts
 - I love solving complex puzzles.
