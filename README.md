@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**NeelM47/NeelM47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate software engineer focused on **Machine Learning**, **AI**, and **Web Development**.
 
-Here are some ideas to get you started:
+## 💼 What I'm Working On
+- Currently working on optimizing algorithms for real-time data processing.
+- Open-source contributions on **GitHub Pages** and **ML frameworks**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Skills
+- Languages: Python, JavaScript, C++
+- Technologies: TensorFlow, Flask, Node.js, Docker, Git
+
+## 💬 Contact Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+
+## ⚡ Fun Facts
+- I love solving complex puzzles.
+- Coffee is my fuel! ☕
